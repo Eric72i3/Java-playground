@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class nahme {
+public class Monat {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         
